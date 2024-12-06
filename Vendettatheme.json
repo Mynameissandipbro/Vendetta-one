@@ -1,48 +1,29 @@
+Here is the code in the correct format for Pyncord/Bunny:
+
 {
-"info": {
-"name": "Aurora",
-"author": "Your Name"
-},
-"colors": {
-"primary": "#3498db",
-"secondary": "#e74c3c",
-"background": "#1a1d23",
-"backgroundSecondary": "#2c2f36",
-"text": "#ffffff",
-"textMuted": "#999999",
-"accent": "#4CAF50",
-"error": "#e74c3c"
-},
-"general": {
-"fontFamily": "Whitney",
-"fontSize": 14,
-"borderRadius": 5
-},
-"channels": {
-"channelText": "#ffffff",
-"channelSelectedText": "#4CAF50",
-"channelSelectedBackground": "#2c2f36",
-"channelUnreadBackground": "#e74c3c"
-},
-"messages": {
-"messageBackground": "#1a1d23",
-"messageText": "#ffffff",
-"messageLink": "#4CAF50",
-"messageHoverBackground": "#2c2f36"
-},
-"members": {
-"memberOnline": "#4CAF50",
-"memberOffline": "#e74c3c",
-"memberBackground": "#1a1d23"
-},
-"popouts": {
-"popoutBackground": "#1a1d23",
-"popoutText": "#ffffff",
-"popoutBorder": "#2c2f36"
-},
-"buttons": {
-"buttonBackground": "#3498db",
-"buttonText": "#ffffff",
-"buttonHoverBackground": "#4CAF50"
-}
+"primaryColor": "#3498db",
+"secondaryColor": "#e74c3c",
+"backgroundColor": "#1a1d23",
+"backgroundSecondaryColor": "#2c2f36",
+"textColor": "#ffffff",
+"textMutedColor": "#999999",
+"accentColor": "#4CAF50",
+"errorColor": "#e74c3c",
+"channelTextColor": "#ffffff",
+"channelSelectedTextColor": "#4CAF50",
+"channelSelectedBackgroundColor": "#2c2f36",
+"channelUnreadBackgroundColor": "#e74c3c",
+"messageBackgroundColor": "#1a1d23",
+"messageTextColor": "#ffffff",
+"messageLinkColor": "#4CAF50",
+"messageHoverBackgroundColor": "#2c2f36",
+"memberOnlineColor": "#4CAF50",
+"memberOfflineColor": "#e74c3c",
+"memberBackgroundColor": "#1a1d23",
+"popoutBackgroundColor": "#1a1d23",
+"popoutTextColor": "#ffffff",
+"popoutBorderColor": "#2c2f36",
+"buttonBackgroundColor": "#3498db",
+"buttonTextColor": "#ffffff",
+"buttonHoverBackgroundColor": "#4CAF50"
 }
